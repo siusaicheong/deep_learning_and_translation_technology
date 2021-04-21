@@ -8,7 +8,7 @@ This article discusses deep learning and its application to translation technolo
 
 ## Download
 
-
+Click [here](https://github.com/siusaicheong/deep_learning_and_translation_technology/blob/main/Deep%20Learning%20and%20Translation%20Technology_siusaicheong_Apr2021.pdf) to view/download the article.
 
 ## Citation
 
