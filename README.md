@@ -9,7 +9,7 @@ This article discusses deep learning and its application to translation technolo
 ## Citation
 
 Please cite as
-```
+``` bibtex
 @misc{siu_2021,
   author = "Sai-cheong SIU",
   title = "Deep Learning and Translation Technology",
