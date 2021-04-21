@@ -6,6 +6,10 @@ Author: SIU Sai Cheong (April 2021)
 
 This article discusses deep learning and its application to translation technology. We first explain what deep learning is and how it works, with an introduction to key concepts, such as artificial neural networks, activation functions, loss functions, forward propagation, backpropagation and optimization. We then explore three approaches to machine translation with deep neural networks, which is followed by a discussion of the application of deep neural networks to speech translation, intersemiotic translation, and translation memory and a review of noteworthy trends.
 
+## Download
+
+
+
 ## Citation
 
 Please cite as
