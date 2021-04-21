@@ -17,7 +17,7 @@ Please cite as
 @misc{siu_2021,
   author = "Sai-cheong SIU",
   title = "Deep Learning and Translation Technology",
-  month = "Apr. 22,",
+  month = "Apr. 22",
   year = "2021. [Online]",
   url = "https://github.com/siusaicheong/deep_learning_and_translation_technology/"
 }
